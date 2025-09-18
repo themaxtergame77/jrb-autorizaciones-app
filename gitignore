@@ -1,0 +1,39 @@
+Misceláneos
+.DS_Store
+.idea/
+.vscode/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+Archivos de iOS y macOS
+*.xcodeproj
+*.xcworkspace
+*.xcarchive
+*.ipa
+.generated/
+Flutter/ephemeral/
+Flutter/Flutter.podspec
+Flutter/.build/
+Flutter/Generated.xcconfig
+Flutter/App.framework
+Flutter/Flutter.framework
+ios/
+macos/
+
+Archivos de Android
+android/
+*.iml
+*.keystore
+local.properties
+
+Archivos de Windows, Web y Linux
+windows/
+web/
+linux/
+
+Registros de herramientas
+*.log
